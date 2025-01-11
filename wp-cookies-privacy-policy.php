@@ -3,8 +3,8 @@
  * Plugin Name: WP Cookies & Privacy Policy
  * Plugin URI: https://github.com/nakharinit/WP-Cookies-Privacy-Policy
  * Description: A simple plugin to display a WP Cookies & Privacy Policy banner.
- * Version: 1.2
- * Author: Your Name
+ * Version: 1.5
+ * Author: Nakharin
  * License: GPL-3.0
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
