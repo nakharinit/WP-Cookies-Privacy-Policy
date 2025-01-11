@@ -21,7 +21,7 @@
 
 ภาพตัวอย่างของเว็บไซต์:
 
-<img src="assets/images/screenshot.png" width="100%" />
+<img src="assets/images/Screenshot.png" width="100%" />
 
 ## ความต้องการระบบ
 - WordPress เวอร์ชัน 5.0 หรือสูงกว่า
